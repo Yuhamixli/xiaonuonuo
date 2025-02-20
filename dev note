@@ -1,0 +1,34 @@
+pcb板
+面包板
+开发板？？
+
+
+1. 小智固件（乐鑫官网），含在github里，ESP32 S3 Wroom N16R8 wifi
+# 2. 硬件：
+- 开发板：ESP32-S3-DevKitC-1（选择 WROOM N16R8 模组）
+- 数字麦克风：INMP441
+- 功放：MAX98357A
+- 腔体喇叭：8Ω 2~3W  或 4Ω 2~3W 
+- 导线：跳线一盒，杜邦线若干
+- 400 孔面包板 2 块
+- 128x32 I2C(IIC) 液晶显示屏，SSD1306 驱动（推荐）
+- ML307R Cat.1 4G 模组，AT固件版（可选）
+- 6*6mm 立式 轻触开关（可选）
+- 万用表
+- 电烙铁套件
+- 签字三件套
+- Type-c
+
+3. 电焊、焊锡、助焊剂
+
+
+鹿小班ai小智
+
+飞书：https://ccnphfhqs21z.feishu.cn/wiki/EH6wwrgvNiU7aykr7HgclP09nCh 
+
+硬件开源：https://github.com/78/xiaozhi-esp32
+
+
+
+
+克隆声音
