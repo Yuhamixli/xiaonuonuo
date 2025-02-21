@@ -22,13 +22,20 @@ pcb板
 3. 电焊、焊锡、助焊剂
 
 
-鹿小班ai小智
-
-飞书：https://ccnphfhqs21z.feishu.cn/wiki/EH6wwrgvNiU7aykr7HgclP09nCh 
-
 硬件开源：https://github.com/78/xiaozhi-esp32
 
 
 
 
 克隆声音
+
+
+
+# 手册
+1. 乐鑫科技Flash下载工具手册
+https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32/production_stage/tools/flash_download_tool.html
+2. 硬件清单与接线教程
+https://ccnphfhqs21z.feishu.cn/wiki/EH6wwrgvNiU7aykr7HgclP09nCh
+3. flash固件烧录教程
+https://ccnphfhqs21z.feishu.cn/wiki/Zpz4wXBtdimBrLk25WdcXzxcnNS
+4. 基本制作说明
